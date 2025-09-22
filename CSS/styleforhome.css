@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+h1, .main-nav {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin: 200px 0px;
+}
+
+.main-nav{
+    font-size: 30px;
+}
+.main-nav{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
